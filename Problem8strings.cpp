@@ -9,6 +9,7 @@
 #include <algorithm>
 using namespace std;
 
+//We use this function to create our vector with the names from "Nume.txt"
 void read(vector<string> &v)
 {
     ifstream nume;
