@@ -9,7 +9,6 @@
 #include <algorithm>
 using namespace std;
 
-//We use this function to create our vector with the names from "Nume.txt"
 void read(vector<string> &v)
 {
     ifstream nume;
@@ -23,10 +22,11 @@ int main()
 {   
     vector<string> v;
     read(v);
-    cout<<"The document contains: "<<endl;
-    for(int i=0; i<v.size();i++) { cout<<v[i]<<endl; sort(v.begin(), v.end()); }
+    cout<<"The document contains: "<<endl<<endl;
+    for(int i=0; i<v.size();i++) { cout<<v[i]<<endl;}
     cout<<endl;
-    cout<<"After sort: "<<endl;
+    for(int i=0; i<v.size();i++) sort(v.begin(), v.end());
+    cout<<"After sort: "<<endl<<endl;
     for(int i=0; i<v.size();i++) {cout<<v[i]<<endl;}
     cout<<endl;
 }   
