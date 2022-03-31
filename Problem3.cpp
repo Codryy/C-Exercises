@@ -1,6 +1,3 @@
-//Problem 6
-//Make a program that calculates the average of random numbers. Make it a little bit more complex
-
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
