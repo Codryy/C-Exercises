@@ -1,6 +1,3 @@
-//Problem 4 remastered
-//Make a program that converts Celsius to Fahrenheit or Kelvin and vice-versa
-
 #include <iostream>
 #include <string>
 using namespace std;
