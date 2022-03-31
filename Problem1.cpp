@@ -1,6 +1,3 @@
-//Problem 3 remastered
-//Based on problem 3, make a program which converts different distance measuring values into other different distance measuring values
-
 #include <iostream>
 #include <string>
 using namespace std;
