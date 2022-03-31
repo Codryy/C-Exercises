@@ -1,5 +1,3 @@
-//Array sorter
-//Take a few random generated numbers and return them in numerical order.
 #include <iostream>
 #include <string>
 #include <cstdlib>
