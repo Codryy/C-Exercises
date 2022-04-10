@@ -1,6 +1,3 @@
-//Create a program that counts duplicates
-//create a function that erases those duplicates
-
 #include <iostream>
 #include <string>
 #include <fstream>
