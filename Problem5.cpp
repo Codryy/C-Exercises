@@ -1,4 +1,3 @@
-//Take from a text file names in a random order and sort them from A to Z
 //We are going to use ~vector~ library so that we can store the data from "Nume.txt" file in a vector
 //We are going to use the ~algorithm~ library so that we can use the function "sort(arg1, arg2)" to sort the names from A to Z
 
